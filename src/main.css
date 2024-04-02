@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  html, body{
+    font-size: 18px;
+    background-color: #ffffff;
+    font-family: sans-serif;
+  }
+
+  .nombre-negocio{
+    font-size: larger;
+    font-style: bold;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #CD0041;
+    color: white;
+    height: 100;
+  }
+
+  .sanborns{
+    margin-top: 25px;
+  }
+
+  .presentacion-restaurante{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    margin-top: 50px;
+  }
+
+  .quienes-somos{
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+  }
+
+  .platillos{
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .entradas{
+    margin-top: 25px;
+  }
+
+  .platos-principales{
+    margin-top: 25px;
+  }
+
+  .postres{
+    margin-top: 25px;
+  }
+
+  .platillo1-nombre{
+    color: #CD0041;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+
+  .platillo1-precio{
+    color: rgb(227, 182, 0) 137, 34;
+    font-weight: bold;
+  }
+
+  .foto-comida{
+    width: 200px;
+    height: 150px;
+  }
+
+  .fotos{
+    margin-top: 180px;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    height: 150px;
+    margin-left: 50px;
+  }
+
+  .ubicacion{
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: left;
+    margin-top: 15px;
+    margin-left: 50px;
+    height: 200px;
+    margin-bottom: 50px;
+  }
+
+  .telefono{
+    margin-top: 10px;
+  }
+
+  .decorativo{
+    background-color: #CD0041;
+    height: 50px;
+    margin-top: 100px;
+  }
